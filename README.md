@@ -1,4 +1,4 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
 <!--
 **AlokMishra594/AlokMishra594** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=AlokMishra594&show_icons=true&theme=radical)
+<!--![Stats](https://github-readme-stats.vercel.app/api?username=AlokMishra594&show_icons=true&theme=radical)-->
 
 ---
 
@@ -42,10 +42,11 @@ Here are some ideas to get you started:
 ---
 
 ## 📌 Top Languages
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlokMishra594&layout=compact&theme=radical)
+<!-- ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlokMishra594&layout=compact&theme=radical) -->
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&lcogoColor=white)
 
 ---
 
