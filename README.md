@@ -20,15 +20,14 @@ Here are some ideas to get you started:
 
 🎓 B.Tech AI/ML Student  
 💻 Aspiring Full Stack AI/ML Developer  
-🚀 Preparing for MAANG Internship 2026  
 
 ---
 
 ## 🔧 Tech Stack
-- Python, JavaScript  
-- MERN Stack  
-- Django  
-- Scikit-learn  
+- Python
+- Machine Learning  
+- Deep Learning
+- Python Libraries : NumPy, Pandas, Matplotlib, Seaborn 
 
 ---
 
@@ -45,15 +44,15 @@ Here are some ideas to get you started:
 ## 📌 Top Languages
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlokMishra594&layout=compact&theme=radical)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 ---
 
 ## 🌐 Connect with me
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://linkedin.com/in/alokmishra7
 
 
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
 
